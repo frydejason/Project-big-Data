@@ -1,0 +1,40 @@
+Zum Datensatz "data_customers_shopping.csv"
+
+Das Dataset zum Verbraucherverhalten und Einkaufsgewohnheiten liefert Einblicke in die Kaufentscheidungen von Konsumenten und umfasst Daten zu Demografie, Kaufhistorie sowie Online- und Offline-Kaufverhalten. Diese Informationen helfen Unternehmen, ihr Marketing und Produktangebot zu optimieren und die Kundenzufriedenheit zu steigern.
+
+Spalten:
+Kunden-ID: Eine einzigartige Kennung, die jedem Kunden zugewiesen wird, um sein Einkaufsverhalten über die Zeit hinweg zu verfolgen und zu analysieren.
+
+Alter: Das Alter des Kunden, liefert demografische Informationen für Segmentierung und gezielte Marketingstrategien.
+
+Geschlecht: Die Geschlechtsidentifikation des Kunden, eine wichtige demografische Variable, die Produktpräferenzen und Kaufmuster beeinflusst.
+
+Gekaufter Artikel: Das vom Kunden ausgewählte spezifische Produkt oder der Artikel während der Transaktion.
+
+Kategorie: Die breite Klassifikation oder Gruppe, zu der der gekaufte Artikel gehört (z.B. Kleidung, Elektronik, Lebensmittel).
+
+Kaufbetrag (USD): Der monetäre Wert der Transaktion, angegeben in US-Dollar (USD), zeigt die Kosten der gekauften Artikel an.
+
+Standort: Der geografische Ort des Kaufs, bietet Einblicke in regionale Vorlieben und Markttrends.
+
+Größe: Die Größenangabe (falls zutreffend) des gekauften Artikels, relevant für Bekleidung, Schuhe und bestimmte Verbrauchsgüter.
+
+Farbe: Die Farbvariante oder -auswahl des gekauften Artikels, beeinflusst Kundenpräferenzen und Produktverfügbarkeit.
+
+Saison: Die saisonale Relevanz des gekauften Artikels (z.B. Frühling, Sommer, Herbst, Winter), wirkt sich auf Bestandsmanagement und Marketingstrategien aus.
+
+Bewertung: Eine numerische oder qualitative Beurteilung des Kunden bezüglich seiner Zufriedenheit mit dem gekauften Artikel.
+
+Abonnementstatus: Zeigt an, ob sich der Kunde für einen Abonnementdienst entschieden hat, gibt Einblicke in seine Treue und das Potenzial für wiederkehrende Einnahmen.
+
+Versandart: Gibt die Methode an, die zur Lieferung des gekauften Artikels verwendet wurde (z.B. Standardversand, Expresslieferung), beeinflusst Lieferzeiten und -kosten.
+
+Angewandter Rabatt: Zeigt an, ob ein Werberabatt auf den Kauf angewendet wurde, beleuchtet Preisempfindlichkeit und Promotion-Effektivität.
+
+Verwendeter Promo-Code: Notiert, ob ein Werbecode oder Gutschein während der Transaktion genutzt wurde, hilft beim Bewerten des Erfolgs von Marketingkampagnen.
+
+Frühere Käufe: Stellt Informationen über die Anzahl oder Häufigkeit früherer Käufe des Kunden zur Verfügung, trägt zur Kundensegmentierung und -bindung bei.
+
+Zahlungsmethode: Gibt die vom Kunden verwendete Zahlungsart an (z.B. Kreditkarte, Bargeld), bietet Einblicke in bevorzugte Zahlungsoptionen.
+
+Kaufhäufigkeit: Zeigt an, wie oft der Kunde Kaufaktivitäten tätigt, ein wichtiger Indikator zur Bewertung von Kundenloyalität und Lebenszeitwert.
